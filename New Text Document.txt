@@ -1,0 +1,44 @@
+356  Create a Graph, print it(done)
+357  Implement BFS algorithm (done)
+358  Implement DFS Algo (done)
+359  Detect Cycle in Directed Graph using BFS/DFS Algo (done)
+360  Detect Cycle in UnDirected Graph using BFS/DFS Algo (done)
+361  Search in a Maze(done)
+362  Minimum Step by Knight(done)
+363  flood fill algo(done)
+364  Clone a graph (done)
+365  Making wired Connections (done)
+366  word Ladder (done)
+367  Dijkstra algo (done)
+368  Implement Topological Sort (done)
+369  Minimum time taken by each job to be completed given by a Directed Acyclic Graph (done)
+370  Find whether it is possible to finish all tasks or not from given dependencies (done)
+371  Find the no. of Isalnds
+372  Given a sorted Dictionary of an Alien Language, find order of characters
+373  Implement Kruksal’sAlgorithm (done)
+374  Implement Prim’s Algorithm (done)
+375  Total no. of Spanning tree in a graph
+376  Implement Bellman Ford Algorithm (done)
+377  Implement Floyd warshallAlgorithm
+378  Travelling Salesman Problem
+379  Graph ColouringProblem(done)
+380  Snake and Ladders Problem
+381  Find bridge in a graph
+382  Count Strongly connected Components(Kosaraju Algo)
+383  Check whether a graph is Bipartite or Not
+384  Detect Negative cycle in a graph (done)
+385  Longest path in a Directed Acyclic Graph
+386  Journey to the Moon
+387  Cheapest Flights Within K Stops
+388  Oliver and the Game
+389  Water Jug problem using BFS
+390  Water Jug problem using BFS
+391  Find if there is a path of more thank length from a source
+392  M-ColouringProblem
+393  Minimum edges to reverse o make path from source to destination
+394  Paths to travel each nodes using each edge(Seven Bridges)
+395  Vertex Cover Problem
+396  Chinese Postman or Route Inspection
+397  Number of Triangles in a Directed and Undirected Graph
+398  Minimise the cashflow among a given set of friends who have borrowed money from each other
+399 Two Clique Problem
